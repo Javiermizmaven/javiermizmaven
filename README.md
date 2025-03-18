@@ -1,16 +1,41 @@
-## Hi there 👋
+# Javier Miz | Senior Web Developer
 
-<!--
-**Javiermizmaven/javiermizmaven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+Working in Maven since **March 18, 2025**
+Senior Web Developer with expertise in React, Next.js. Focused on delivering high-quality web solutions and scalable applications. I enjoy turning complex problems into elegant, efficient code.
 
-Here are some ideas to get you started:
+## 🚀 Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend
+- React.js
+- Next.js
+- JavaScript (ES6+)
+- TypeScript
+- CSS/SCSS
+- Tailwind CSS
+- Responsive Design
+
+### E-commerce
+- Shopify/Liquid
+- Headless CMS integration
+
+### Backend Exposure
+- RESTful APIs
+- Node.js basics
+- Database integration
+
+### Tools & Practices
+- Git/GitHub
+- CI/CD workflows
+- Agile methodologies
+- Performance optimization
+- Cross-browser testing
+
+## 🔍 What I'm Currently Learning
+- Advanced Next.js optimization techniques
+- Performance tuning for large-scale applications
+- Modern state management patterns
+
+---
+
+> "Code is like humor. When you have to explain it, it's bad." – Cory House
